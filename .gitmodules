@@ -1,0 +1,6 @@
+[submodule "cellpose"]
+  path = ./cellpose
+  url = https://github.com/MouseLand/cellpose.git
+[submodule "CellProfiler"]
+  path = ./CellProfiler
+  url = https://github.com/CellProfiler/CellProfiler.git

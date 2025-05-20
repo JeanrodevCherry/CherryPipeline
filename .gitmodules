@@ -7,5 +7,3 @@
 [submodule "segment-anything"]
   path = ./segment-anything
   url = https://github.com/facebookresearch/sam2.git
-
-  

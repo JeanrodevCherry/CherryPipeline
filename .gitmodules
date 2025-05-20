@@ -4,3 +4,8 @@
 [submodule "CellProfiler"]
   path = ./CellProfiler
   url = https://github.com/CellProfiler/CellProfiler.git
+[submodule "segment-anything"]
+  path = ./segment-anything
+  url = https://github.com/facebookresearch/sam2.git
+
+  
